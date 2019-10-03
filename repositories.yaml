@@ -23,17 +23,274 @@ repositories:
     variables:
       - username
       - password
-  - alias: dotscience
-    url: https://raw.githubusercontent.com/dotmesh-io/deployment-manifests/master/deployer/dotscience-deployer.yml
-    logoUrl: https://github.com/dotmesh-io.png?size=80
-    variables:
-      - token
-    required:
-      - token
+  - alias: keel2
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
       - name: Karolis Rusenas
         email: karolis@webhookrelay.com
         username: rusenask
-      - name: Kai Davenport
-        email: kaiyadavenport@gmail.com
-        username: binocarlos
+    variables:
+      - username
+      - password
+  - alias: keel3
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel4
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel5
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel6
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel7
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel8
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+    - alias: keel9
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel10
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel11
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel12
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+    - alias: keel13
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel14
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel15
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel16
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+    - alias: keel17
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel18
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel19
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel20
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+    - alias: keel21
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel22
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel23
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel24
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+    - alias: keel25
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel26
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml2
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel27
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml3
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  - alias: keel28
+    url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml4
+    logoUrl: https://github.com/keel-hq.png?size=80
+    maintainers:
+      - name: Karolis Rusenas
+        email: karolis@webhookrelay.com
+        username: rusenask
+    variables:
+      - username
+      - password
+  
