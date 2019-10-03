@@ -93,7 +93,7 @@ repositories:
     variables:
       - username
       - password
-    - alias: keel9
+  - alias: keel9
     url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
     logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
@@ -133,7 +133,7 @@ repositories:
     variables:
       - username
       - password
-    - alias: keel13
+  - alias: keel13
     url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
     logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
@@ -173,7 +173,7 @@ repositories:
     variables:
       - username
       - password
-    - alias: keel17
+  - alias: keel17
     url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
     logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
@@ -213,7 +213,7 @@ repositories:
     variables:
       - username
       - password
-    - alias: keel21
+  - alias: keel21
     url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
     logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
@@ -253,7 +253,7 @@ repositories:
     variables:
       - username
       - password
-    - alias: keel25
+  - alias: keel25
     url: https://raw.githubusercontent.com/keel-hq/keel/master/deployment/deployment-template.yaml
     logoUrl: https://github.com/keel-hq.png?size=80
     maintainers:
